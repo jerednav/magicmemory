@@ -1,3 +1,3 @@
 # Magic Memory
 
-Simple metch game using React
+Simple match game using React
