@@ -1,3 +1,11 @@
-# Magic Memory
 
-Simple match game using React
+# Magic Memory
+Memory game
+
+
+### Technologies Used
+#### Front End
+* JavaScript
+* React
+* HTML
+* CSS
